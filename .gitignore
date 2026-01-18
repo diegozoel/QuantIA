@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Datos (CRÍTICO: Nunca subir datos reales al repo público) ---
+data/raw/*
+data/processed/*
+data/external/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+*.csv
+*.xlsx
+*.json
+*.log
+
+# --- Sistema ---
+.DS_Store
+Thumbs.db
+.vscode/

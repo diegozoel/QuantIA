@@ -1,0 +1,20 @@
+# --- Core Data Science Stack ---
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# --- Visualization Engines ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Interactive Notebook Environment ---
+ipykernel>=6.0.0
+ipython>=8.0.0
+
+# --- Utilities & Performance ---
+tqdm>=4.65.0          # Progress bars for long iterations
+python-dotenv>=1.0.0  # Secure environment variable management
+
+# --- Code Quality & Linting (German Standard) ---
+black                 # Uncompromising code formatter (PEP8)
+ruff                  # High-performance linter
