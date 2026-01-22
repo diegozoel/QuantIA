@@ -15,8 +15,8 @@ The primary objective is to address capital inefficiency ("Dead Stock") in high-
 
 ### Theoretical Framework
 This project is backed by a comprehensive analysis of supply chain inefficiencies in emerging markets.
-**[Read Executive One-Pager (PDF)](docs/QuantIA_Executive_Brief.pdf)**
-**[Download Full Whitepaper (PDF)](docs/QuantIA_Whitepaper_2026_ES.pdf)**
+* **[Read Executive One-Pager (PDF)](docs/QuantIA_Executive_Brief.pdf)**
+* **[Download Full Whitepaper (PDF)](docs/QuantIA_Whitepaper_2026_ES.pdf)**
 
 ### Core Objectives
 * **Capital Allocation:** Reduce idle inventory through dynamic Reorder Point (ROP) calculation.
