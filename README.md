@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 
 ## System Blueprint
-![QuantIA System Architecture](docs/images/system_architecture.jpg)
+![QuantIA System Architecture](docs/images/system_architecture_blueprint.jpg)
 
 ## Project Overview
 QuantIA is a modular data engineering framework designed to optimize supply chain operations through stochastic modeling and automated reasoning.
@@ -15,7 +15,7 @@ The primary objective is to address capital inefficiency ("Dead Stock") in high-
 
 ### Theoretical Framework
 This project is backed by a comprehensive analysis of supply chain inefficiencies in emerging markets.
-**[Download Full Whitepaper (PDF)](docs/QuantIA_Whitepaper_2026.pdf)**
+**[Download Full Whitepaper (PDF)](docs/QuantIA_Whitepaper_2026_ES.pdf)**
 
 ### Core Objectives
 * **Capital Allocation:** Reduce idle inventory through dynamic Reorder Point (ROP) calculation.
