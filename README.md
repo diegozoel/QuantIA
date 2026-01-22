@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Prototype-orange)
 
 ## System Blueprint
-![QuantIA System Architecture](docs/images/system_architecture_blueprint.jpg)
+![QuantIA System Architecture](docs/images/system_architecture_blueprint.jpeg)
 
 ## Project Overview
 QuantIA is a modular data engineering framework designed to optimize supply chain operations through stochastic modeling and automated reasoning.
@@ -35,6 +35,7 @@ QuantIA/
 ├── notebooks/          # Exploratory Data Analysis (EDA)
 ├── docs/               # Technical documentation and Whitepaper
 └── tests/              # Unit and integration testing
+```
 
 ## Technical Stack
 
